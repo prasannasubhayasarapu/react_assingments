@@ -1,0 +1,10 @@
+:root{
+    background-color: lightblue;
+    color: black;
+    font-size: 29px;
+}
+button{
+    border-radius: 15px;
+    border-radius: 12px;
+    border: solid 4px black;
+}
